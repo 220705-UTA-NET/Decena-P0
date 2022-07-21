@@ -1,0 +1,15 @@
+C:\trainer_code\Project0\Project0\bin\Debug\net6.0\Project.exe
+C:\trainer_code\Project0\Project0\bin\Debug\net6.0\Project.deps.json
+C:\trainer_code\Project0\Project0\bin\Debug\net6.0\Project.runtimeconfig.json
+C:\trainer_code\Project0\Project0\bin\Debug\net6.0\Project.dll
+C:\trainer_code\Project0\Project0\bin\Debug\net6.0\Project.pdb
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.dll
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\refint\Project.dll
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.pdb
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\Project.genruntimeconfig.cache
+C:\trainer_code\Project0\Project0\obj\Debug\net6.0\ref\Project.dll
